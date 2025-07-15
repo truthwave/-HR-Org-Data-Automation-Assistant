@@ -2,21 +2,21 @@
 
 > “Simplify complex HR data management tasks with the power of GPT!”
 
-[View HR & Org Data Automation Assistant on ChatGPT](https://chatgpt.com/g/g-686cbd4b28c881918e461fb62a7e3c32-ren-shi-bu-shu-yi-zhi-tetachu-li-asisutanto)
+[👉 View HR & Org Data Automation Assistant on ChatGPT](https://chatgpt.com/g/g-686cbd4b28c881918e461fb62a7e3c32-ren-shi-bu-shu-yi-zhi-tetachu-li-asisutanto)
 
 ---
 
 ## 📌 Overview
 
-**HR & Org Data Automation Assistant (人事・部署・役職データ処理アシスタント)** is a GPT-powered tool designed to support HR, general affairs, and IT departments with the daily challenges of managing employee data, organizational structures, and job titles.
+**HR & Org Data Automation Assistant** is a GPT-powered tool built for HR, general affairs, and IT departments dealing with complex employee and organizational data management.
 
-It helps solve practical problems like:
+This tool solves practical, real-world challenges such as:
 
 - Inconsistent employee record formats across departments
-- Managing role constraints (e.g. “only one department head per department”)
-- Generating logic for MUMPS or SQL but lacking confidence or resources
+- Enforcing rules like “only one department head per department”
+- Needing logic generation for MUMPS, SQL, or Python without sufficient in-house resources
 
-This tool was developed to address the real-world needs of HR and IT professionals.
+It’s designed to support both technical and non-technical users in streamlining HR data tasks.
 
 ---
 
@@ -25,37 +25,42 @@ This tool was developed to address the real-world needs of HR and IT professiona
 ### ✅ HR Data Formatting & Layout Design
 
 - Proposes CSV field structures and standardized templates
-- Generates layouts including employee ID, names, department codes, job titles, etc.
-- Suggests field order and mandatory fields
+- Suggests layouts for fields like employee ID, names, department codes, job titles, etc.
+- Defines required fields and recommended column order
 
 ---
 
 ### ✅ Role Constraint Logic Generation
 
-- Configures rules like “one department head per department” or “one assistant manager per section”
-- Generates logic in MUMPS, SQL, or pseudocode for validation checks
+- Configures rules such as:
+    - Only one department head per department
+    - Only one deputy manager per section
+- Outputs logic in MUMPS, SQL, or pseudocode for validation checks
 
 ---
 
 ### ✅ HR Process Workflow Design
 
-- Designs workflows for transfers, promotions, resignations
-- Recommends the sequence of operations and validation steps
+- Designs workflows for:
+    - Transfers
+    - Promotions
+    - Resignations
+- Recommends processing steps and validation points
 
 ---
 
 ### ✅ Code Sample Generation
 
-- Generates code samples in MUMPS, SQL, and Python
-- Provides examples for reading/writing CSV files
+- Generates examples in MUMPS, SQL, and Python
+- Provides CSV reading/writing code snippets
 - Outputs functions for checking role constraints
 
 ---
 
 ### ✅ Data Integration & Deduplication Support
 
-- Suggests logic for merging employee data tables
-- Provides algorithms for duplicate detection
+- Provides logic for merging employee data tables
+- Suggests duplicate detection algorithms
 - Offers examples for aggregating department-level statistics
 
 ---
@@ -63,20 +68,20 @@ This tool was developed to address the real-world needs of HR and IT professiona
 ## 🎯 Target Users
 
 - HR and general affairs staff
-- IT department staff managing HR systems
+- IT professionals maintaining HR systems
 - Engineers working with MUMPS in medical or financial systems
-- IT managers at SMEs managing employee records
-- Professionals seeking help with HR data logic and cleanup
+- SME IT managers handling employee databases
+- Professionals seeking help with HR data logic and cleansing
 
 ---
 
 ## 💻 Usage Examples
 
-### Example Input (Generating Role Constraint Logic)
+### Example Input (Role Constraint Logic)
 
 ```
 
-I want to enforce the following:
+I want to enforce these rules:
 
 * Only one department head per department
 * Only one deputy department head per department
@@ -105,7 +110,7 @@ CHKROLE(DEPT,KAKU,YAKU) ; Function to check role constraints
 
 ---
 
-### Example Input (Generating Employee CSV Layout)
+### Example Input (Employee CSV Layout)
 
 ```
 I want to create a CSV layout for an employee ledger
@@ -129,23 +134,22 @@ including employee ID, name, department, and position.
 
 * **Custom Prompt Engineering**
 
-  * Designed with domain-specific knowledge of HR operations
-  * Handles complex rules like role constraints and department structures
+  * Developed with domain knowledge of HR and organizational structures
+  * Capable of handling complex rules and organizational hierarchies
 
 * **MUMPS Support**
 
-  * Supports MUMPS, a niche language used in legacy systems, especially in healthcare and finance
-  * Outputs code tailored for specialized environments
+  * Provides code for MUMPS, a niche but critical language in healthcare and financial legacy systems
 
 * **Security Awareness**
 
-  * Reminds users not to input real personal data
+  * Reminds users not to input personal or sensitive data
   * Emphasizes data protection and privacy
 
-* **Versatility for Various User Levels**
+* **Support for All User Levels**
 
-  * Supports both non-technical staff and developers
-  * Can output data in tables, lists, or code as needed
+  * Flexible outputs for both technical and non-technical users
+  * Supports tables, lists, and code generation
 
 ---
 
@@ -153,7 +157,7 @@ including employee ID, name, department, and position.
 
 * Do not input real personal or confidential data into this tool.
 * This tool is for reference and educational purposes only.
-* Always consult professionals before implementing logic into production systems.
+* Always consult professionals before deploying generated logic to production.
 
 ---
 
@@ -162,7 +166,17 @@ including employee ID, name, department, and position.
 * Expand support for Excel VBA
 * Add English-language output for global users
 * Diversify employee ledger templates
-* Incorporate automatic updates for legal and regulatory changes
+* Incorporate automatic updates for regulatory changes
+
+---
+
+## 👨‍💻 My Role
+
+I developed this GPT solution and handled:
+
+* Prompt engineering for HR-specific use cases
+* Designing user-friendly dialogue flows
+* Ensuring support for niche technologies like MUMPS
 
 ---
 
@@ -174,90 +188,92 @@ MIT License
 
 > “Simplify complex HR data management tasks with the power of GPT!”
 
-[View HR & Org Data Automation Assistant on ChatGPT](https://chatgpt.com/g/g-686cbd4b28c881918e461fb62a7e3c32-ren-shi-bu-shu-yi-zhi-tetachu-li-asisutanto)
-
-
-# 人事・部署・役職データ処理アシスタント / HR & Org Data Automation Assistant
-
-「面倒な人事データ管理も、GPTでサクッと補助！」
+[👉 View HR & Org Data Automation Assistant on ChatGPT](https://chatgpt.com/g/g-686cbd4b28c881918e461fb62a7e3c32-ren-shi-bu-shu-yi-zhi-tetachu-li-asisutanto)
 
 ---
 
-## 概要 / Overview
+# 人事・部署・役職データ処理アシスタント
 
-**人事・部署・役職データ処理アシスタント**は、人事・総務部門や情シス部門で日々発生する  
-社員情報、役職構造、部署構成などのデータ処理をサポートする GPT ベースの業務支援ツールです。
+> 「面倒な人事データ管理も、GPTでサクッと補助！」
 
-「社員台帳のフォーマットが部署ごとにバラバラ…」  
-「部長は1人まで、課長は各課に1人…といった制限を管理したい」  
-「MUMPSやSQLでロジックを作りたいけど自信がない…」
+---
 
-そんな現場の課題を解決することを目的に開発しました。
+## 📌 概要 / Overview
+
+**人事・部署・役職データ処理アシスタント** は、人事・総務部門や情シス部門の
+社員データ管理や役職構造の整備など、現場でよく発生する課題をサポートする
+GPT ベースの業務支援ツールです。
+
+例えば：
+
+* 部門ごとにバラバラな社員台帳フォーマットの統一
+* 「部長は部署ごとに1人まで」など役職制限の管理
+* MUMPSやSQLのロジックを作りたいが自信がない
+
+こうした現場の悩みを解決するために開発しました。
 
 ---
 
 ## 主な機能 / Features
 
-### ✅ 人事データの整形・レイアウト作成
+### ✅ 人事データの整形・フォーマット作成
 
-- CSVの項目設計・フォーマット統一
-- 名前、社員番号、部署コード、役職コードなどを含む人事台帳のテンプレート生成
-- 項目の順序や必須項目の提案
-
----
-
-### ✅ 役職制限ロジックの提案
-
-- 部署ごとの役職上限設定
-- 例：「部長は部署ごとに1人まで」「課長代理は課ごとに1人まで」
-- MUMPS、SQL、疑似コードでロジックを生成可能
+* CSV項目構成やテンプレート提案
+* 社員番号、氏名、部署コード、役職名などを含むレイアウト設計
+* 項目順や必須項目の提案
 
 ---
 
-### ✅ 人事処理ルールの設計
+### ✅ 役職制限ロジック生成
 
-- 部署異動、役職昇格、退職時の処理フローを提示
-- データ操作の順序やチェックポイントを提案
-
----
-
-### ✅ コードサンプル自動生成
-
-- MUMPS / SQL / Python での人事処理例
-- CSVファイル読み込みや書き込みのサンプル
-- 制限チェック用の関数出力
+* 部署・課単位での役職上限設定
+* 例：「部長は部署に1名まで」など
+* MUMPS、SQL、擬似コードによるロジック出力
 
 ---
 
-### ✅ データ統合・重複検出・集計支援
+### ✅ 人事業務フローの設計支援
 
-- 社員台帳データの統合ロジックを提案
-- 重複チェックのアルゴリズム例
-- 部署別人員数などの集計例
+* 異動、昇格、退職時の処理手順提案
+* データ操作の順序やチェックポイントを提示
+
+---
+
+### ✅ コードサンプル生成
+
+* MUMPS、SQL、Pythonによるサンプルコード
+* CSV読み書き例
+* 役職制限チェック関数の例
+
+---
+
+### ✅ データ統合・重複検出支援
+
+* 社員台帳統合ロジック提案
+* 重複検出アルゴリズム例
+* 部署別人員集計の例
 
 ---
 
 ## 想定ユーザー / Target Users
 
-- 人事・総務担当者
-- 情報システム部門の担当者
-- MUMPS を扱う医療・金融系エンジニア
-- 社員データを管理する中小企業のIT管理者
-- データ整備やロジック作成に課題を抱える方
+* 人事・総務担当者
+* 情報システム部門の担当者
+* MUMPSを扱う医療・金融系エンジニア
+* 社員データを管理する中小企業のIT管理者
+* データ整備やロジック構築に課題を抱える方
 
 ---
 
-## 使用例 / Usage Example
+## 使用例 / Usage Examples
 
 ### 入力例（役職制限ロジック生成）
 
 ```
-
 部長は部署ごとに1名、副部長も1名まで。
 課長・課長代理は課ごとに1名ずつに制限したい。
 このルールをMUMPSでチェックする関数を作りたい。
-
-````
+```
 
 ---
 
@@ -270,15 +286,15 @@ CHKROLE(DEPT,KAKU,YAKU) ; 役職制限チェック関数
    SET MAX("部長")=1, MAX("副部長")=1
    SET MAX("課長")=1, MAX("課長代理")=1
 
-   ; すでに登録済の人数をカウント
+   ; 既存人数をカウント
    SET CNT=$O(^SYST_社員番号(DEPT,KAKU,YAKU,""),-1)
    IF CNT'<MAX(YAKU) QUIT 0
    QUIT 1
-````
+```
 
 ---
 
-### 入力例（人事台帳のCSVレイアウト生成）
+### 入力例（社員台帳CSVレイアウト生成）
 
 ```
 社員台帳のCSVレイアウトを作りたい。
@@ -302,39 +318,48 @@ CHKROLE(DEPT,KAKU,YAKU) ; 役職制限チェック関数
 
 * **カスタムプロンプト設計**
 
-  * 人事業務特有のルールをGPTに学習させるため、詳細なプロンプト設計を実施
-  * 制限ロジック、部署構成ルールなど現場の実務を意識した設計
+  * 人事業務に特化したルールを想定し設計
+  * 部署構造や役職制約などを反映
 
-* **MUMPS への対応**
+* **MUMPS対応**
 
-  * ニッチ領域であるMUMPSに対応した出力を実装
-  * 医療情報システムや金融系レガシーシステムを意識した設計
+  * 医療・金融業界で使われるレガシー言語への対応
+  * 特定業界に即したロジック生成
 
-* **セキュリティへの配慮**
+* **セキュリティ配慮**
 
-  * 個人情報保護に関する注意を必ず表示
-  * 実在データの入力を行わないよう注意喚起
+  * 個人情報の入力禁止を周知
+  * 実データ使用を避ける設計
 
-* **ノーコード層から開発者層まで対応**
+* **ノーコード層〜開発者層対応**
 
-  * 表形式・リスト形式での出力に対応し、現場のUXを意識
+  * 表、リスト、コード生成など多様な出力形態に対応
 
 ---
 
 ## 注意事項 / Disclaimer
 
 * 実在する個人データは入力しないでください。
-* 本ツールはあくまでも参考情報を提供するものです。
-* 実務導入の際は、必ず専門家のレビューを行ってください。
+* 本ツールは参考情報を提供するものであり、実務導入の際は必ず専門家の確認を行ってください。
 
 ---
 
 ## 今後の展望 / Future Plans
 
-* Excel VBA 対応を拡充
-* 英語版出力対応
-* 人事台帳テンプレートの多様化
-* 法令変更への自動対応
+* Excel VBA対応の強化
+* 英語版出力への対応
+* 社員台帳テンプレートの多様化
+* 法改正情報の自動反映機能
+
+---
+
+## 👨‍💻 開発者 / My Role
+
+このGPTの開発において以下を担当しました：
+
+* 人事領域に特化したプロンプト設計
+* UXを意識した出力フォーマット設計
+* MUMPSなど特殊技術への対応
 
 ---
 
@@ -344,6 +369,8 @@ MIT License
 
 ---
 
-「面倒な人事データ管理も、GPTでサクッと補助！」
+> 「面倒な人事データ管理も、GPTでサクッと補助！」
 
-→https://chatgpt.com/g/g-686cbd4b28c881918e461fb62a7e3c32-ren-shi-bu-shu-yi-zhi-tetachu-li-asisutanto
+[👉 HR & Org Data Automation Assistant on ChatGPT](https://chatgpt.com/g/g-686cbd4b28c881918e461fb62a7e3c32-ren-shi-bu-shu-yi-zhi-tetachu-li-asisutanto)
+
+```
