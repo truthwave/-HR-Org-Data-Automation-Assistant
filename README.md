@@ -2,6 +2,7 @@
 <img width="1536" height="1024" alt="人事データの整備、GPTでここまでできる。 (1)" src="https://github.com/user-attachments/assets/15eeb091-c268-4d70-8761-2f1ebccb0df9" />
    
 </p>
+
 # 人事・部署・役職データ処理アシスタント
 
 > **「面倒な人事データ管理も、GPTでサクッと補助！」**
