@@ -1,4 +1,4 @@
-# HR & Org Data Automation Assistant (人事・部署・役職データ処理アシスタント)
+# HR & Org Data Automation Assistant
 
 > **“Simplify complex HR data management tasks with the power of GPT!”**
 
