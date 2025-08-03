@@ -181,3 +181,9 @@ MIT License
 > **「面倒な人事データ管理も、GPTでサクッと補助！」**
 
 [👉 HR & Org Data Automation Assistant on ChatGPT](https://chatgpt.com/g/g-686cbd4b28c881918e461fb62a7e3c32-ren-shi-bu-shu-yi-zhi-tetachu-li-asisutanto)
+
+## 🧑‍💻 作者
+
+[ともプログラム便り](https://github.com/TomoProgrammingDayori)
+
+ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
