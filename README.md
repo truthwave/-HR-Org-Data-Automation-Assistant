@@ -58,6 +58,16 @@
 
 ---
 
+## 📸 **体験イメージ**
+
+[在籍・退職などのステータスでフィルタ＆色分けする方法](https://github.com/TomoProgrammingDayori/-HR-Org-Data-Automation-Assistant/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E5%9C%A8%E7%B1%8D%E3%83%BB%E9%80%80%E8%81%B7%E3%81%AA%E3%81%A9%E3%81%AE%E3%82%B9%E3%83%86%E3%83%BC%E3%82%BF%E3%82%B9%E3%81%A7%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%EF%BC%86%E8%89%B2%E5%88%86%E3%81%91%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95.jpeg)
+
+[部署ごとに並べ替えの整理手順](https://github.com/TomoProgrammingDayori/-HR-Org-Data-Automation-Assistant/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E9%83%A8%E7%BD%B2%E3%81%94%E3%81%A8%E3%81%AB%E4%B8%A6%E3%81%B9%E6%9B%BF%E3%81%88%E3%81%AE%E6%95%B4%E7%90%86%E6%89%8B%E9%A0%86.jpeg)
+
+[部署ごとの人数をピボットテーブルで集計](https://github.com/TomoProgrammingDayori/-HR-Org-Data-Automation-Assistant/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88/%E9%83%A8%E7%BD%B2%E3%81%94%E3%81%A8%E3%81%AE%E4%BA%BA%E6%95%B0%E3%82%92%E3%83%94%E3%83%9C%E3%83%83%E3%83%88%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%A7%E9%9B%86%E8%A8%88.jpeg)
+
+---
+
 ## 想定ユーザー / Target Users
 
 - 人事・総務担当者
