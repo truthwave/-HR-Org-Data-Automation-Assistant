@@ -1,5 +1,6 @@
 <p>
-   <img width="1536" height="1024" alt="人事データの整備、GPTでここまでできる。" src="https://github.com/user-attachments/assets/902fb82f-7c20-415b-ae13-c9914e6aa204" />
+
+<img width="1536" height="1024" alt="人事データの整備、GPTでここまでできる。" src="https://github.com/user-attachments/assets/0073ae8f-9dbb-4eb5-9b18-9c1e9b17cda2" />
 
 </p>
 
