@@ -1,5 +1,4 @@
-<p>
-
+<p align="center">
 <img width="1536" height="1024" alt="人事データの整備、GPTでここまでできる。" src="https://github.com/user-attachments/assets/0073ae8f-9dbb-4eb5-9b18-9c1e9b17cda2" />
 
 </p>
@@ -151,6 +150,9 @@ CHKROLE(DEPT,KAKU,YAKU) ; 役職制限チェック関数
 [ともプログラム便り](https://github.com/TomoProgrammingDayori)
 
 ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
+
+## お気軽にご連絡ください
+[📩 ご相談・お見積もりはこちら](mailto:realmadrid71214591@gmail.com)
 
 ---
 
