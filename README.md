@@ -148,7 +148,7 @@ CHKROLE(DEPT,KAKU,YAKU) ; 役職制限チェック関数
 
 ## 🧑‍💻 作者
 
-[ともAI便り](https://github.com/TomoAIDayori)
+**[Truth Wave ― 真理の波](https://github.com/truthwave)**  
 
 ポートフォリオやAIツール開発に関する情報もぜひご覧ください！
 
