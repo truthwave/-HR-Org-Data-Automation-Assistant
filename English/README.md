@@ -8,7 +8,7 @@
 👉[ Try it now with ChatGPT](https://chatgpt.com/g/g-686cbd4b28c881918e461fb62a7e3c32-ren-shi-bu-shu-yi-zhi-tetachu-li-asisutanto)
 
 <p align="center">
-<img width="1536" height="1024" alt="人事・部署・役職データ処理アシスタント" src="https://github.com/user-attachments/assets/cff7a63b-c59a-4a56-a3a1-8e28b61e8933" />
+<img width="1536" height="1024" alt="人事 (1)" src="https://github.com/user-attachments/assets/1b80f615-d23f-419c-8688-ffd6e1368ed7" />
 
 </p>
 
