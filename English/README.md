@@ -1,4 +1,4 @@
-# HR/Department/Position Data Processing Assistant
+<img width="1536" height="1024" alt="人事" src="https://github.com/user-attachments/assets/46839172-c2d7-4918-af0f-9a8435dec0ec" /># HR/Department/Position Data Processing Assistant
 
 > **Register maintenance: 60 minutes → 8 minutes.**
 > Position verification: Manual → Automated.
@@ -8,8 +8,7 @@
 👉[ Try it now with ChatGPT](https://chatgpt.com/g/g-686cbd4b28c881918e461fb62a7e3c32-ren-shi-bu-shu-yi-zhi-tetachu-li-asisutanto)
 
 <p align="center">
-<img width="1536" height="1024" alt="人事 (1)" src="https://github.com/user-attachments/assets/1b80f615-d23f-419c-8688-ffd6e1368ed7" />
-
+<img width="1536" height="1024" alt="人事" src="https://github.com/user-attachments/assets/c931319e-f4bd-467c-98f6-5101a009be01" />
 </p>
 
 ---
