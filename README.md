@@ -5,7 +5,7 @@
 > 人事は、判断だけに集中する。
 
 <p align="center">
-<img width="1536" height="1024" alt="人事" src="https://github.com/user-attachments/assets/5b6c8b59-7aad-4a82-82ff-caddf98089b0" />
+<img width="1536" height="1024" alt="人事" src="https://github.com/user-attachments/assets/8f464efe-42a2-4674-b189-ff4a7010ca99" />
 </p>
 
 👉[ ChatGPTで今すぐ試す](https://chatgpt.com/g/g-686cbd4b28c881918e461fb62a7e3c32-ren-shi-bu-shu-yi-zhi-tetachu-li-asisutanto)
