@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="人事" src="https://github.com/user-attachments/assets/46839172-c2d7-4918-af0f-9a8435dec0ec" /># HR/Department/Position Data Processing Assistant
+# HR/Department/Position Data Processing Assistant
 
 > **Register maintenance: 60 minutes → 8 minutes.**
 > Position verification: Manual → Automated.
