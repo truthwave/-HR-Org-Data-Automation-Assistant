@@ -31,7 +31,9 @@
 
 ## 📸Experience Image
 
-![Demo](https://github.com/truthwave/-HR-Org-Data-Automation-Assistant/blob/main/English/Demo%20Movie.gif)
+![Demo](https://github.com/truthwave/-HR-Org-Data-Automation-Assistant/blob/main/English/Materials/Demo%20Movie.gif)
+
+### [Screenshot](https://github.com/truthwave/-HR-Org-Data-Automation-Assistant/tree/main/English/Materials/Screenshot)
 
 ---
 
